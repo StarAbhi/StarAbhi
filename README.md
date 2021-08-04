@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @StarAbhi 
+- 👀 I’m interested in creative programming ....
+- 🌱 I’m currently learning Django......
+- 📫 My gmail : aksingh274409@gmail.com ....
+
+<!---
+StarAbhi/StarAbhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
