@@ -1,0 +1,22 @@
+Item NamePrice
+Burrito$24.56
+Chicken Nuggets$21.56
+Chicken Breasts$24.0
+Cheese Burger$20.34
+Chef's Salad$11.9
+Poutine$23.43
+Eggrolls$18.9
+Pizza$23.45
+Donuts$12.0
+Cookies$10.0
+Spaghetti$16.9
+Tacos$24.8
+French Fries$7.0
+Sandwich$25.7
+Caesar salad$15.0
+Steak$30.5
+Fish$21.5
+Garlic Bread$12.0
+Nachos$5.5
+Meatloaf$22.0
+ghj$25.0

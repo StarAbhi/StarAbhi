@@ -1,0 +1,6 @@
+#import pandas python module as pd and numpy as np
+import pandas as pd
+import numpy as np
+data = data_type_format(load_mydata("location_review_data.csv"), [0, 1, 2, 3])
+df_data = convert_to_dataframe(data)
+print(df_data.head())

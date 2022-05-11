@@ -1,0 +1,1 @@
+& C:/Users/Rajput/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Rajput/Desktop/django/python/study/practice/Python/countwordinfile.py& C:/Users/Rajput/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Rajput/Desktop/django/python/study/practice/Python/countwordinfile.py

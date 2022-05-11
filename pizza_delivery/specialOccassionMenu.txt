@@ -1,0 +1,14 @@
+Item Name                          Price
+Burrito                            $24.56
+Chicken Nuggets                    $21.56
+Chicken Breasts                    $24.00
+Cheese Burger                      $20.34
+Poutine                            $23.43
+Pizza                              $23.45
+Tacos                              $24.80
+Sandwich                           $25.70
+Steak                              $30.50
+Fish                               $21.50
+Meatloaf                           $22.00
+ghj                                $25.00
+The average price per item for special occassion menu is: $23.90

@@ -1,0 +1,5 @@
+Instructions:
+Welcome to the Coin Toss Game!
+This is a simple game where two computer players toss a coin.
+In each round, each player gets 4 tries to toss a coin.
+After the last round, "STATS" show how well each player did in the game!

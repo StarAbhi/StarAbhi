@@ -1,0 +1,5 @@
+what is your name?
+what is your age?
+what is your collage name?
+what is your madam name?
+what is your current address?

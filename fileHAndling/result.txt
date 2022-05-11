@@ -1,0 +1,5 @@
+File:test.txt
+Number of lines:14
+Number of words:34
+Number of distinct words:25
+Most commonly used words:data 
